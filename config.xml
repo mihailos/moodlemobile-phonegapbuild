@@ -5,10 +5,10 @@
         id        = "com.smart-lynx.trainingmobile"
         versionCode = "20170"
         version   = "3.2.1">
-    <name>Moodle Mobile</name>
+    <name>Mobile Training</name>
 
     <description>
-       Smartlyn Mobile Training
+       Smartlynx Mobile Training
     </description>
 
     <author href="http://smart-lynx.com" email="it@smart-lynx.com">
