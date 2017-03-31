@@ -3,12 +3,12 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.smart-lynx.trainingmobile"
-        versionCode = "20170"
-        version   = "3.2.1">
-    <name>Mobile Training</name>
+        versionCode = "31.03.2017"
+        version   = "v1">
+    <name>Training Mobile</name>
 
     <description>
-       Smartlynx Mobile Training
+       Smartlynx Training Mobile
     </description>
 
     <author href="http://smart-lynx.com" email="it@smart-lynx.com">
