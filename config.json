@@ -11,7 +11,7 @@
     "demo_sites": {},
     "gcmpn": "trainingmobile-v1",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://training.smart-lynx.com/",
+    "siteurl": "http://training.smart-lynx.com",
     "skipssoconfirmation": "true",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
