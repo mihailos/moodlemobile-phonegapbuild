@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.smart-lynx.trainingmobile"
-        versionCode = "12.11.2019"
-        version   = "v4">
+        versionCode = "19.11.2020"
+        version   = "v5">
     <name>Training Mobile</name>
 
     <description>
